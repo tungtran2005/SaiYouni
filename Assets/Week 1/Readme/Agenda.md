@@ -2,7 +2,7 @@
 
 ## 1. Tìm Giá Trị Lớn Nhất Mà Int, Float và Double Trong Unity C# Có Thể Lưu Trữ
 
-## 2. Để Thiết Kế Ra Một Kế Hoạch Làm Game Trong 1 Tháng
+## 2. Nhờ AI Thiết Kế Ra Một Kế Hoạch Làm Game Trong 1 Tháng
 
 ## 3. Khai Báo Thêm 5 Methods Cho Class Enemy
 
