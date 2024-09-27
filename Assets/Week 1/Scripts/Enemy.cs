@@ -8,27 +8,27 @@ public class Enemy : MonoBehaviour
     // 5 Enemies variables
 
     //variables 1 
-    int var1;
+    int HP = 10;
     //variables 2
-    float var2;
+    int HpCurrent = 10;
     //variables 3 
-    double var3;
+    float speed = 10f;
     //variables 4 
-    bool var4;
+    bool IsDead = false;
     //variables 5 
-    string var5;
+    string enemyName = "zombie";
 
     // 5 Enemies methods
 
     //Method 1
-    void Enemie1()
+    void Moving()
     {
 
     }
     //Method 2
-    int Enemie2()
+    void Jump()
     {
-        return 0;
+        
     }
     //Method 3
     float Enemie3()
@@ -36,7 +36,7 @@ public class Enemy : MonoBehaviour
         return 0;
     }
     //Method 4
-    bool Enemie4()
+    bool EnemieDead()
     {
         return false;
     }
