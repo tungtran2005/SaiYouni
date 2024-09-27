@@ -31,7 +31,7 @@ public class Enemy : MonoBehaviour
         
     }
     //Method 3
-    float Enemie3()
+    float EnemyDamage()
     {
         return 0;
     }
@@ -41,7 +41,7 @@ public class Enemy : MonoBehaviour
         return false;
     }
     //Method 5
-    string Enemie5()
+    string EnemySound()
     {
         return "Ok";
     }
