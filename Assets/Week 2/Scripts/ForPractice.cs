@@ -5,9 +5,13 @@ using UnityEngine;
 
 public class ForPractise : MonoBehaviour
 {
+    [Header("bai 12 :")]
     public int input12 = 10;
+    [Header("bai 13 :")]
     public int input13 = 10;
+    [Header("bai 14 :")]
     public int input14 = 10;
+    [Header("bai 16 :")]
     public int input16 = 7;
     private void Start()
     {
