@@ -20,6 +20,8 @@
 ## 4. Tìm Kiếm 2 Website Khác Ngoài Unity Store Cung Cấp Asset
 
 - Tìm và đánh giá thêm 2 trang web cung cấp asset để làm phong phú nguồn tài nguyên cho dự án.
+  + Itch.io : Itch.io không chỉ là một nền tảng phân phối game mà còn có kho tài nguyên miễn phí, bao gồm sprites, âm thanh, âm nhạc, và cả công cụ phát triển game.
+  + OpenGameArt : OpenGameArt cung cấp rất nhiều loại tài nguyên bao gồm sprites, âm nhạc, hiệu ứng âm thanh và đồ họa 3D, tất cả đều được chia sẻ dưới các giấy phép mã nguồn mở.
 - Một số trang web có thể tham khảo bao gồm:
   - **CGTrader**: Chuyên cung cấp asset 3D.
   - **TurboSquid**: Một trang web uy tín với nhiều asset cho các dự án game và phim.
