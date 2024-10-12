@@ -2,8 +2,7 @@
 
 ## 1. Kỹ Thuật Spawner<T> Có Tên Gọi Là Gì
 
-- **Spawner<T>** là một kỹ thuật sử dụng **Generics** trong C#. Nó cho phép tạo ra các đối tượng (objects) một cách linh hoạt và có thể tái sử dụng mà không cần chỉ định cụ thể kiểu dữ liệu ngay từ đầu.
-- **Generic Spawner** là thuật ngữ được dùng để chỉ kỹ thuật này. Nó giúp giảm sự phụ thuộc vào các lớp hoặc đối tượng cụ thể, cho phép sinh ra nhiều kiểu đối tượng khác nhau thông qua một class generic duy nhất.
+Trả lời:
 
 ## 2. Bài Tập Sử Dụng `<T>`
 
