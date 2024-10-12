@@ -42,16 +42,7 @@ Trả lời:
 - **Kiểm Tra Animation**:
   - Chạy thử và kiểm tra animation dying trên từng nhân vật để đảm bảo sự chuyển tiếp mượt mà từ trạng thái sống sang trạng thái chết.
 
-## 5. Gắn Ragdolls Cho Thêm 5 Characters
+## 5. Chia đôi số lượng quái cho vào 2 Enemy Spanwer ở 2 vị trí khác nhau
 
-- **Tạo Ragdoll Cho 5 Nhân Vật**:
-
-  - Sử dụng **Ragdoll Wizard** trong Unity để tạo ragdolls cho 5 nhân vật khác nhau.
-
-- **Gắn Kết Ragdoll Vào Nhân Vật**:
-
-  - Tích hợp ragdolls vào các nhân vật để khi nhân vật chết, ragdoll sẽ được kích hoạt, tạo ra hiệu ứng vật lý thực tế.
-
-- **Điều Chỉnh Và Kiểm Tra Ragdolls**:
-  - Điều chỉnh các yếu tố vật lý của ragdoll (trọng lượng, lực va chạm, tốc độ rơi) để phù hợp với từng nhân vật.
-  - Kiểm tra hoạt động của ragdoll khi nhân vật chết hoặc va chạm để đảm bảo tính chân thực và mượt mà.
+- ** Phụ thuộc vào path của bạn đã thiết kế ở tuần 4 **:
+  - Cho Enemy được spawn ở 2 vị trí spawner khác nhau
