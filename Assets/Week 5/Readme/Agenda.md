@@ -6,6 +6,8 @@ Trả lời:
 
 ## 2. Bài Tập Sử Dụng `<T>`
 
+Ở bài tập này bạn hãy tạo nhiều class riêng biệt nha mỗi script một class nhé và class cần được lưu vào folder scripts
+
 1.  **Bài tập 1**: Tạo một lớp generic lưu trữ dữ liệu của bất kỳ kiểu dữ liệu nào, ví dụ như `int`, `float`, hoặc `string`.
 2.  **Bài tập 2**: Viết hàm generic trả về phần tử lớn nhất trong một mảng các phần tử có kiểu dữ liệu bất kỳ.
 3.  **Bài tập 3**: Viết hàm generic để hoán đổi giá trị của hai biến với bất kỳ kiểu dữ liệu nào.
@@ -13,6 +15,8 @@ Trả lời:
 5.  **Bài tập 5**: Tạo một phương thức generic kiểm tra xem một phần tử bất kỳ có tồn tại trong danh sách hoặc mảng hay không.
 
 ## 3. Tạo Animation Hit Cho Thêm 5 Characters
+
+###Phần này làm thêm trong project bạn học với anh Sai ở T7 hằng tuần
 
 - **Tạo Animation Hit**:
 
@@ -29,6 +33,8 @@ Trả lời:
 
 ## 4. Tạo Animation Dying Cho Thêm 5 Characters
 
+###Phần này làm thêm trong project bạn học với anh Sai ở T7 hằng tuần
+
 - **Tạo Animation Dying**:
 
   - Thiết kế và tạo 5 animation **Dying** cho các nhân vật khi chúng chết.
@@ -43,6 +49,8 @@ Trả lời:
   - Chạy thử và kiểm tra animation dying trên từng nhân vật để đảm bảo sự chuyển tiếp mượt mà từ trạng thái sống sang trạng thái chết.
 
 ## 5. Chia đôi số lượng quái cho vào 2 Enemy Spanwer ở 2 vị trí khác nhau
+
+###Phần này làm thêm trong project bạn học với anh Sai ở T7 hằng tuần
 
 - ** Phụ thuộc vào path của bạn đã thiết kế ở tuần 4 **:
   - Cho Enemy được spawn ở 2 vị trí spawner khác nhau
