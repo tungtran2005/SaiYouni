@@ -2,7 +2,7 @@
 
 ## Giới Thiệu
 
-Câu lệnh điều kiện **OR** (`||`) được sử dụng khi chỉ cần **một trong các điều kiện** đúng thì biểu thức điều kiện sẽ được đánh giá là đúng. Khi có 3 biến, chỉ cần một trong ba biến thỏa mãn điều kiện, chương trình sẽ thực hiện hành động mong muốn. Dưới đây là 10 bài tập giúp bạn thực hành với điều kiện **OR** kết hợp 3 biến.
+Câu lệnh điều kiện **OR** (`||`) được sử dụng khi chỉ cần *i*một trong các điều kện** đúng thì biểu thức điều kiện sẽ được đánh giá là đúng. Khi có 3 biến, chỉ cần một trong ba biến thỏa mãn điều kiện, chương trình sẽ thực hiện hành động mong muốn. Dưới đây là 10 bài tập giúp bạn thực hành với điều kiện **OR** kết hợp 3 biến.
 
 ## 10 Bài Tập Về Điều Kiện OR Với 3 Biến
 
